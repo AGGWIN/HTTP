@@ -1,6 +1,9 @@
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+!*.xcworkspace/contents.xcworkspacedata
 
 ## OS X Finder
 .DS_Store
